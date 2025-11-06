@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Ying-Yang
+Name[Ru]=Инь-Янь
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/icon.svg
+X-Lomiri-Splash-Image=assets/splash.svg
+X-Lomiri-Splash-Color="#333333"
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
