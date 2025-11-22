@@ -1,0 +1,15 @@
+{
+    "name": "ying-yang.khmelyauskas",
+    "description": "See rotating ying-yang on Ubuntu Touch/Lomiri Desktop!",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Ying-Yang",
+    "hooks": {
+        "ying-yang": {
+            "apparmor": "ying-yang.apparmor",
+            "desktop":  "ying-yang.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "JasonWalt Bab@ <mardimusa8@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
